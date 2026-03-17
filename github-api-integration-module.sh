@@ -40,6 +40,7 @@ if [ -z "$last_page" ]; then
 else
 
     # yes - this result is on multiple pages
+    #yesnoyesno
     #yessssssssssssssssssssssss
     #noooooo
     for p in `seq 1 $last_page`; do
